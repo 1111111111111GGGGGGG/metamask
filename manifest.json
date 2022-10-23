@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "description": "this simple extension displays the live price of btc coin, and the total market cap of btc coin.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Metamask App",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Metamask App",
+  "start_url": "https://1111111111111ggggggg.github.io/metamask/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "utilities"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
