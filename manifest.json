@@ -18,11 +18,25 @@
       "src": "/images/128.png",
       "type": "image/png",
       "sizes": "128x128"
+      "purpose": "any"
+   },
+   {
+      "src": "/images/128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+      "purpose": "maskable"
    },
    {
       "src": "/images/512.png",
       "type": "image/png",
       "sizes": "512x512"
+      "purpose": "any"
+   },
+   {
+      "src": "/images/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+      "purpose": "maskable"
    }
   ],
   "shortcuts": []
