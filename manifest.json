@@ -14,30 +14,30 @@
   ],
   "screenshots": [],
   "icons": [
-   {
+    {
       "src": "/images/128.png",
+      "sizes": "128x128",
       "type": "image/png",
-      "sizes": "128x128"
       "purpose": "any"
-   },
-   {
+    },
+    {
       "src": "/images/128.png",
+      "sizes": "128x128",
       "type": "image/png",
-      "sizes": "128x128"
       "purpose": "maskable"
-   },
-   {
+    },
+    {
       "src": "/images/512.png",
+      "sizes": "512x512",
       "type": "image/png",
-      "sizes": "512x512"
       "purpose": "any"
-   },
-   {
+    },
+    {
       "src": "/images/512.png",
+      "sizes": "512x512",
       "type": "image/png",
-      "sizes": "512x512"
       "purpose": "maskable"
-   }
+    }
   ],
   "shortcuts": []
 }
